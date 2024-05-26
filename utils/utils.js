@@ -4,9 +4,8 @@ const emailRegex = /^[a-z0-9-]+@[a-z0-9-.]+/i;
 
 const allowedCors = [
   'https://localhost:5173',
-  'localhost:5173',
-  'localhost:3000',
-  'http://beancode.ru',
+  'https://localhost:5174',
+  'https://timur-eva.ru',
 ];
 
 module.exports = {
